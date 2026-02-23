@@ -7,4 +7,8 @@ public class Animal {
     void Animals(){
         System.out.println("Animal uchun oziq-ovqat berlarin");
     }
+
+    void AnimalInfo(){
+        System.out.println("Animal info ga xush kelibsiz");
+    }
 }
